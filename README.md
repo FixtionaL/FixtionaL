@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im a noob pretending to be noober .
 
+<div align="center">
+  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=FixtionaL&column=8&theme=onedark&no-frame=true">
+</div>
