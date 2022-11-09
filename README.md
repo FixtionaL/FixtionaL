@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with web development
+- 🤔 I’m currently into web development
 - 💬 Ask me about logical thinking 
 - 📫 How to reach me: harshng7@gmail.com
 - 😄 Pronouns: he/him
