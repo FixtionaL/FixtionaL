@@ -10,7 +10,7 @@ ___
 
 <div align="center">
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="REST API" src="https://img.shields.io/endpoint?label=Rest%20Api&logoColor=Red&style=for-the-badge" />
+  <img alt="REST API" src="https://img.shields.io/badge/label=Rest%20Api&logoColor=Red&style=for-the-badge" />
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
   <br>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
