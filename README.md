@@ -6,7 +6,7 @@
 
 ___
 
-### Languages and tools that ACCIDENTLY I came across with:
+### Languages and tools that  I "ACCIDENTLY" came across with:
 
 <div align="center">
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white" />
