@@ -10,7 +10,7 @@ ___
 
 <div align="center">
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="REST API" src="https://img.shields.io/badge/restapi-109989?style=for-the-badge&logo=REST API&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/endpoint?label=Rest%20Api&logoColor=Red&style=for-the-badge" />
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
   <br>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,6 +34,7 @@ ___
   <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-FF6C37?style=for-the-badge&logo=SpringBoot&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0d1017?style=for-the-badge&logo=Markdown&logoColor=white" />
+  <br>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
