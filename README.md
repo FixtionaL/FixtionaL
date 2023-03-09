@@ -1,8 +1,8 @@
-### Hi there 👋
-- 🤔 I’m currently into anything that my institution teaches. 
-- 💬 Ask me about that feeling of being a Newbie.
-- 📫 How to reach me: harshng7@gmail.com
-- ⚡ Fun fact: Im a noob pretending to be noober .
+### Hey All 
+- I’m currently into anything that my institution teaches. 
+- Ask me about that feeling of being a Newbie.
+- How to reach me: harshng7@gmail.com
+- Fun fact: Im a noob pretending to be noober .
 
 <div align="center">
   <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=FixtionaL&column=8&theme=onedark&no-frame=true">
