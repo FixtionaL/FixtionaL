@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🤔 I’m currently into web development
-- 💬 Ask me about logical thinking 
+- 🤔 I’m currently into anything that my institution teaches. 
+- 💬 Ask me about that feeling of being a Newbie.
 - 📫 How to reach me: harshng7@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Im a noob pretending to be noober .
 
 <div align="center">
