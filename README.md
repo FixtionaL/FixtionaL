@@ -1,4 +1,4 @@
-### Hey All 
+### Hey GitHubbers!
 - I’m currently into anything that my institution teaches. 
 - Ask me about that feeling of being a Newbie.
 - How to reach me: harshng7@gmail.com
