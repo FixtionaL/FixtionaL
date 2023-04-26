@@ -3,7 +3,7 @@
 - Ask me about that feeling of being a Newbie.
 - How to reach me: harshng7@gmail.com
 - Fun fact: Im a noob pretending to be noober .
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey,+It's+Mouli...;I'm+a+learning+developer;I'm+a+professional+cricketer+;Intrested+in+forex)](https://git.io/typing-svg)
 ___
 
 ### Languages and tools that  I "ACCIDENTLY" came across with:
