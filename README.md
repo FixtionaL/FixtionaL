@@ -27,7 +27,7 @@ ___
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-white?style=for-the-badge&logo=java-logo" />
-<!--   <img alt="mySQl" src="https://img.shields.io/badge/MySQL-4375cc?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="mySQl" src="https://img.shields.io/badge/MySQL-4375cc?&style=for-the-badge&logo=mysql&logoColor=white" />
   <br> -->
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white" />
